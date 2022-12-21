@@ -1,16 +1,13 @@
-### Hi there 👋
+# Automatización | Ros | Robótica | Visión artificial 
 
-<!--
-**nat1999/nat1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es **Natalia Arenas Londoño**. Soy ingeniera y tecnóloga en instrumentación y control  con énfasis en mecatrónica del Politécnico Jaime Isaza Cadavid. Me apasiona la robótica, la visión artificial, inteligencia artificial y la automatización.
 
-Here are some ideas to get you started:
+**Habilidades:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programación en Python enfocado a Ros.
+- Programacion en Python enfocado a visión artificial e inteligencia artificial.
+
+**Contacto:**
+
+- [linkedin](www.linkedin.com/in/natalia-arenas-londoño)
+- Correo: nataliaarenas1999@gmail.com
