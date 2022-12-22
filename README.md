@@ -2,8 +2,9 @@
 
 Mi nombre es **Natalia Arenas Londoño**. Soy ingeniera y tecnóloga en instrumentación y control  con énfasis en mecatrónica del Politécnico Jaime Isaza Cadavid. Me apasiona la robótica, la visión artificial, inteligencia artificial y la automatización.
 
-![RB-KAIROS-UR5-Y-UR10_ (1)](https://user-images.githubusercontent.com/71849061/209234329-9e714dfc-6055-4b16-b440-4a4dd524e800.jpg)
 
+
+![Robot](https://user-images.githubusercontent.com/71849061/209234520-23c661f3-c0ef-4c09-add7-d0bed2afc042.png)
 
 
 **Habilidades:**
