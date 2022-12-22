@@ -4,7 +4,7 @@ Mi nombre es **Natalia Arenas Londoño**. Soy ingeniera y tecnóloga en instrume
 
 
 
-![Robot](https://user-images.githubusercontent.com/71849061/209234520-23c661f3-c0ef-4c09-add7-d0bed2afc042.png)
+                ![Robot](https://user-images.githubusercontent.com/71849061/209234520-23c661f3-c0ef-4c09-add7-d0bed2afc042.png)
 
 
 **Habilidades:**
