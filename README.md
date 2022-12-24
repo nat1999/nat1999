@@ -14,6 +14,6 @@ Mi nombre es **Natalia Arenas Londoño**. Soy ingeniera y tecnóloga en instrume
 
 **Contacto:**
 
-- [linkedin](www.linkedin.com/in/natalia-arenas-londoño)
+- linkedin: www.linkedin.com/in/natalia-arenas-londoño
 - Correo: nataliaarenas1999@gmail.com
 
