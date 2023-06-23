@@ -6,7 +6,7 @@ Mi nombre es **Natalia Arenas Londoño**. Soy ingeniera y tecnóloga en instrume
 
 - Programación en Python enfocado a Ros.
 - Programacion en Python enfocado a visión artificial e inteligencia artificial.
-- Programación C++.
+- Programación C++ enfocado a Ros. 
 
 **Contacto:**
 
